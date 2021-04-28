@@ -1,2 +1,3 @@
-# Week07-In-class-project
+# Week07-NewProject
+
 In class group task
